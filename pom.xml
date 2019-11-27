@@ -5,7 +5,7 @@
   <version>1.0.${v}-SNAPSHOT</version>
   <packaging>war</packaging>
   <build>
-    <finalname>myproject</finalname>
+    <finalName>myproject</finalName>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
